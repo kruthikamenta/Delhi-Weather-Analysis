@@ -1,18 +1,18 @@
 # Delhi Weather Patterns Analysis Dashboard – Power BI Project
 
 📌 Overview
-This Power BI project presents a comprehensive dashboard analyzing Delhi's weather patterns from 2018 to 2024. It allows users to explore and interpret variations in temperature, humidity and weather conditions across different timeframes. The dashboard provides valuable insights for climate monitoring, urban planning and research.
+# This Power BI project presents a comprehensive dashboard analyzing Delhi's weather patterns from 2018 to 2024. It allows users to explore and interpret variations in temperature, humidity and weather conditions across different timeframes. The dashboard provides valuable insights for climate monitoring, urban planning and research.
 
 🎯 Features
-KPI Summary Cards: 
+## KPI Summary Cards: 
 Display key weather metrics including total humidity, min, max and average temperatures over the selected time period.
-Scatter Plot:
+## Scatter Plot:
 Humidity vs Temperature: Reveals the relationship between humidity levels and average temperature.
-Line Chart: 
+## Line Chart: 
 Yearly Temperature Trends- Tracks how mean temperatures have changed year over year.
-Weather Condition Donut Chart: 
+## Weather Condition Donut Chart: 
 Shows the frequency distribution of different weather conditions like clear skies, rain and cloudy days.
-Interactive Filters: 
+## Interactive Filters: 
 Users can drill down by year and month to observe specific seasonal or temporal patterns.
 
 📁 Attributes Included
