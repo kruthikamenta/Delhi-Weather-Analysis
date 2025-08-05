@@ -50,7 +50,7 @@ The dashboard provides valuable insights for **climate monitoring**, **urban pla
 ## 🚀 Getting Started
 
 ### 📎 Download the Dashboard  
-[Click here to View/Download the Power BI file](#) 
+[Download the Power BI file](https://drive.google.com/drive/folders/1VVV3ZMuV5LzjrcDASSYOilpB1OhHG-0Q?usp=sharing) 
 
 ### 🖥️ Open in Power BI Desktop  
 - Ensure **Power BI Desktop** is installed  
